@@ -1,12 +1,11 @@
 #   Codigo que implementa el esquema numerico 
 #   de interpolacion para determinar la raiz de
 #   una ecuacion
-# 
-#           Autor:
-#   Dr. Ivan de Jesus May-Cen
-#   imaycen@hotmail.com
-#   Version 1.0 : 11/02/2025
-#
+"""   Autor:
+   Argel Jesus Pech Manrique
+   argelpech098@gmail.com
+   Version 2.0 : 17/02/2025 10:50pm
+"""
 import numpy as np
 import matplotlib.pyplot as plt
 from scipy.optimize import root_scalar
